@@ -1,0 +1,115 @@
+.header-logo{
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: #1a1a1a;
+    align-items: center;
+}
+body{
+    background-color: #252525;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+.header-name{
+    margin-top: 28px;
+    color: #ffffff;
+}
+.info-logo{
+    width: 300px;
+    height: 300px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-name{
+    color: #ffffff;
+}
+
+.info-text{
+    color:#ffffff;
+    text-align: center;
+    font-size: medium;
+
+}
+.info-button {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff !important;
+    padding: 12px 23px;
+    border-radius: 16px;
+    border: 4px solid #3c3b36;
+    background: #262626;
+}
+.info-button:hover {
+    color: #cccccc !important;
+    background: #1f1d1c;
+} 
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    color: #D3D3D3;
+    background-color: #191919;
+}
+.osnova {
+    color: #d3d3d3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.home-button {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.noavatar{
+    width: 150px;
+    height: 150px;
+}
+.info-prof{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.username{
+    color:#ffffff;
+    text-align: center;
+    font-size: medium;
+}
+.kolvo{
+    color:#ffffff;
+    text-align: center;
+    font-size: medium;
+}
+.prod1{
+    width: 140px;
+    height: 140px;
+}
+.prod2{
+    width: 140px;
+    height: 140px;
+}
+.ak1{
+    width: 240px;
+    height: 140px;
+}
+.ak2{
+    width: 240px;
+    height: 140px;
+}
